@@ -1,2 +1,2 @@
 # whoami
-Whom info
+Whoami info
