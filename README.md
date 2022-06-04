@@ -1,7 +1,7 @@
 # Hi there!
 :white_check_mark: I'm cybersecurity specialist and beginner devops.
 
-:white_check_mark: I'm working in BlueTeam and PurpleTeam.
+:white_check_mark: I'm member of the BlueTeam and PurpleTeam.
 
 
 My skills:
