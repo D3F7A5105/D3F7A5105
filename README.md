@@ -24,3 +24,7 @@ My skills:
 - Docker
 - Detection-as-code
 - CI/CD
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r00tik&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r00tik&layout=compact&theme=tokyonight)
