@@ -31,7 +31,7 @@
 
 # My Posts 
 <span>
-  <a href="https://habr.com/ru/post/589433/">
+  <a href="https://habr.com/ru/post/664916/">
     <p>Профилируем события Sysmon при внедрении в инфраструктуру</p>
     <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/af7/9b2/ca0/af79b2ca0d3089e092ab8dccf3375bca.jpeg" alt="Профилируем события Sysmon при внедрении в инфраструктуру" height="225px">
   </a>
