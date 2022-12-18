@@ -25,9 +25,9 @@
 - Detection-as-code
 - CI/CD
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r00tik&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3F7A5105&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r00tik&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3F7A5105&layout=compact&theme=tokyonight)
 
 # My Posts 
 <span>
