@@ -6,8 +6,8 @@
 
 ## My skills:
 - Network
-- Administrative Linux
-- Administrative Windows
+- Linux
+- Windows
 - EDR
 - SIEM
 - IDS/IPS
@@ -18,12 +18,13 @@
 - Ansible
 - Python
 - Powershell
-- Java
 - ELK
 - WEC/WEF
 - Docker
 - Detection-as-code
 - CI/CD
+
+## Used technologies
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3F7A5105&show_icons=true&theme=tokyonight)
 
