@@ -4,25 +4,19 @@
 :white_check_mark: I'm member of the BlueTeam and PurpleTeam.
 
 
-## My skills:
-- Network
-- Linux
-- Windows
-- EDR
-- SIEM
-- IDS/IPS
-- YARA
-- Sigma
-- Suricata
-- GitLab
-- Ansible
-- Python
-- Powershell
-- ELK
-- WEC/WEF
-- Docker
-- Detection-as-code
-- CI/CD
+## Used laguage
+[![My Language](https://skillicons.dev/icons?i=bash,go,md,py,regex,sqlite,powershell)](https://skillicons.dev)
+
+## Used technology
+
+[![My Language](https://skillicons.dev/icons?i=linux,docker,vim,ansible,discord,github,git,gitlab,grafana,neovim,twitter)](https://skillicons.dev)
+
+## Used tools:
+:surfer: **Network** - Suricata Wireshark Brim IDS PFsense Cisco Huawei
+
+:detective: **Windows/Linux** - EDR Sigma Sysmon WEC/WEF ELK Detection-as-code Syslog Audit Velociraptor
+
+:man_astronaut: **Analyze malware** - PDF DOC RTF DOCX XLSX VBA
 
 ## Used technologies
 
