@@ -16,7 +16,7 @@
 
 :detective: **Windows/Linux** - EDR Sigma Sysmon WEC/WEF ELK Detection-as-code Syslog Audit Velociraptor
 
-:man_astronaut: **Analyze malware** - PDF DOC RTF DOCX XLSX VBA
+:man_astronaut: **Analyze malware** - PDF DOC RTF DOCX XLSX VBA LNK
 
 ## Used technologies
 
