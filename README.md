@@ -25,6 +25,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3F7A5105&layout=compact&theme=tokyonight)
 
 # My Posts 
+
+<span>
+  <a href="https://habr.com/ru/post/684940/">
+    <p>Разбор таска Let's Defend. DogWalk 0-Day Activity</p>
+    <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/b3b/2d3/b9c/b3b2d3b9ca6f03d538f89530ae4030fe.jpeg" alt="Разбор таска Let's Defend. DogWalk 0-Day Activity" height="225px">
+  </a>
+</span>
+
 <span>
   <a href="https://habr.com/ru/post/664916/">
     <p>Профилируем события Sysmon при внедрении в инфраструктуру</p>
