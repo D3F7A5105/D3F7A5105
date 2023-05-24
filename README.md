@@ -20,9 +20,9 @@
 
 ## Used technologies
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3F7A5105&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3f0x0&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3F7A5105&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3f0x0&layout=compact&theme=tokyonight)
 
 # My Posts 
 
