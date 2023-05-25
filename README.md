@@ -3,6 +3,8 @@
 
 :white_check_mark: Member of the BlueTeam and PurpleTeam.
 
+:anger: Member of the offensive team 5HM3L
+
 
 ## Used laguage
 [![My Language](https://skillicons.dev/icons?i=bash,go,md,py,regex,sqlite,powershell)](https://skillicons.dev)
