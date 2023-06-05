@@ -29,7 +29,7 @@
 # My Posts 
 
 <span>
-  <a href="https://habr.com/ru/post/684940/">
+  <a href="https://habr.com/ru/articles/736512/">
     <p>Фильтрация событий Windows встроенными утилитами</p>
     <img src="https://habrastorage.org/r/w780/getpro/habr/upload_files/488/6d6/418/4886d64182a84451a7f99f0859482e51.jpg" alt="Фильтрация событий Windows встроенными утилитами" height="225px">
   </a>
