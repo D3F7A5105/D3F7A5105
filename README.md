@@ -29,6 +29,13 @@
 # My Posts 
 
 <span>
+  <a href="https://xakep.ru/2024/02/16/sysmon-configs/">
+    <p>Detection-as-Сode. Строим пайплайн для конфига Sysmon</p>
+    <img src="https://xakep.ru/wp-content/uploads/2024/02/451346/16-02-socials.png" alt="Detection-as-Сode. Строим пайплайн для конфига Sysmon" height="225px">
+  </a>
+</span>
+
+<span>
   <a href="https://habr.com/ru/articles/736512/">
     <p>Фильтрация событий Windows встроенными утилитами</p>
     <img src="https://habrastorage.org/r/w780/getpro/habr/upload_files/488/6d6/418/4886d64182a84451a7f99f0859482e51.jpg" alt="Фильтрация событий Windows встроенными утилитами" height="225px">
